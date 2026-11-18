@@ -1,3 +1,5 @@
+#Olarte James Robin S.
+#BAET 2101
 
 secret_number = 27
 tries = 0
